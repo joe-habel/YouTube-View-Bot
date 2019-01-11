@@ -1,0 +1,6 @@
+search_string = Your Search Here
+min_watch = 10
+max_watch = 45
+wait_after = 15
+views = 100
+multicore = False
